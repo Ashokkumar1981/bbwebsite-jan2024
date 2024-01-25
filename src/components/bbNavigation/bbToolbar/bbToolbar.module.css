@@ -1,0 +1,32 @@
+
+
+
+  
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #ffb300;
+  }
+
+
+
+.mylogo{
+    height: 50px;
+    position: absolute;
+    left: 0px;
+  
+    border: 3px solid #73AD21;
+    padding: 1px;
+}

@@ -1,0 +1,22 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://bumblebees.io/</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://bumblebees.io/features</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://bumblebees.io/demorequest</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://bumblebees.io/signup</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://bumblebees.io/login</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+</urlset>
